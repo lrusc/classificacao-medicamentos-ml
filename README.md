@@ -9,9 +9,9 @@ Projeto de desenvolvimento de um modelo de classificação para prever a classe 
 ## 📊 Resultados dos Modelos
 | Modelo               | Acurácia |
 |----------------------|----------|
-| Árvore de Decisão    | 100%     |
-| Random Forest        | 100%     |
-| Regressão Logística  | 85%      |
+| Árvore de Decisão    | 96%     |
+| Random Forest        | 98%     |
+| Regressão Logística  | 92%      |
 
 ## 🛠️ Como Reproduzir
 1. Clone o repositório:

@@ -1,4 +1,4 @@
-# 🏥 Classificação de Medicamentos - Machine Learning
+# 🏥 Sistema de Classificação de Medicamentos via Machine Learning Aplicado a Dados Clínicos
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2.2-orange)

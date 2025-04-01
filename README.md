@@ -4,7 +4,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2.2-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Projeto de machine learning para classificação de medicamentos com base em dados clínicos, alcançando **100% de acurácia** nos melhores modelos.
+Projeto de desenvolvimento de um modelo de classificação para prever a classe de medicamento adequada com base em perfil clínico (idade, sexo, pressão arterial e níveis de sódio-potássio).
 
 ## 📊 Resultados dos Modelos
 | Modelo               | Acurácia |

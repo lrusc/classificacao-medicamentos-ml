@@ -13,10 +13,6 @@ Projeto de machine learning para classificação de medicamentos com base em dad
 | Random Forest        | 100%     |
 | Regressão Logística  | 85%      |
 
-## 🧠 Features Mais Importantes
-![Feature Importance](imagens/feature_importance.png)  
-*(O nível de Sódio-Potássio (Na_to_K) foi o fator mais decisivo nas previsões)*
-
 ## 🛠️ Como Reproduzir
 1. Clone o repositório:
 ```bash

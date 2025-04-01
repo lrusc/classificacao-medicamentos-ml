@@ -16,4 +16,4 @@ Projeto de machine learning para classificação de medicamentos com base em dad
 ## 🛠️ Como Reproduzir
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/classificacao-medicamentos.git
+git clone https://github.com/lrusc/classificacao-medicamentos-ml.git
